@@ -1,0 +1,1 @@
+SELECT ID,Timestamp,Height,Filled,Location,TRUNC(Filled*100.0/Height,2) AS Percent FROM 'data/sensor[n]'

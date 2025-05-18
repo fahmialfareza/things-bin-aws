@@ -10,6 +10,10 @@
   "license": "ISC",
   "dependencies": {
     "aws-cli-js": "^2.0.6",
-    "aws-iot-device-sdk": "^2.2.1",
+    "aws-iot-device-sdk": "^2.2.1"
+  },
+  "volta": {
+    "node": "16.16.0",
+    "pnpm": "8.6.0"
   }
 }
